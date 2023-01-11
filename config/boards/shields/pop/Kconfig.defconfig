@@ -1,0 +1,6 @@
+if SHIELD_POP 
+
+config ZMK_pop
+    default "pop"
+
+endif

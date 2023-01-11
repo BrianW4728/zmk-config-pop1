@@ -1,0 +1,2 @@
+config SHIELD_POP
+    def_bool $(shields_list_contains, pop)
